@@ -1,0 +1,21 @@
+git init
+git config user. name / email /  password
+git add (nombre o . [para todos])
+git commit -m (guardar proyecto)
+git status -s (como esta el proyecyt o hacer seguimiento) 
+git log --oneline (las copias del proyecto)
+git reset y numero del proyecto
+git commit --amend (abrir editor)
+git push (subir a la nube)
+git pull (traer de la nube)
+git tag ////// -m "" (agregar etiquetas)
+git push --tags (subir etiquetas)
+git clone (url) (clonar proyecto desde consola)
+
+RAMAS O BRANCH:
+master (rama maestra)
+git branch ..nombre... (crear una rama)
+git branch (en que rama estoy)
+git checkout ...nombre de la rama... (permine mover el flujo de trabajo entre las ramas)
+git merge ..nombre de la rama a fucionar.. (primero mover a la rama master y despues fusionar)
+git branch -D .... (borrar rama )
